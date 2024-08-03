@@ -1,4 +1,4 @@
-// Create wev server
+// Create web server
 // npm install express
 // npm install body-parser
 
